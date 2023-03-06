@@ -1,1 +1,3 @@
 # NetTools
+Pakeges:
+    Colorama
